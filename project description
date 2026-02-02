@@ -1,0 +1,5 @@
+The Simple Bill Calculator using Operators and Input & Output is a Python program developed to calculate the total bill amount for a purchased item based on user inputs. The program accepts the item price and quantity to compute the subtotal, then applies tax and discount percentages to determine the final bill amount.
+
+This project uses basic input and output operations along with arithmetic operators to perform real-life billing calculations accurately. The calculated details such as subtotal, tax amount, discount amount, and total payable amount are displayed clearly to the user.
+
+The project helps beginners understand how Python can be used to solve practical problems and simulates a real-world billing system. It also improves logical thinking and strengthens fundamental programming skills by implementing simple calculations in an organized manner.
